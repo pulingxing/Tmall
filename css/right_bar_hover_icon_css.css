@@ -1,0 +1,58 @@
+.right_bar_hover_icon {
+	background-color: #494949;
+	position: fixed;
+	display: none;
+	z-index: 10;
+	width: 90px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	color: #FFFFFF;
+	margin-left: 1215px;
+	margin-top: 87px;
+	cursor: pointer;
+}
+
+.right_bar_hover_icon_span {
+	height: 20px;
+	color: #494949;
+	font-size: 36px;
+	margin-top: -37px;
+	margin-left: 78px;
+}
+#right_bar_hover_icon_0{
+	margin-top: 37px;
+}
+#right_bar_hover_icon_2 {
+	top: 157px;
+}
+#right_bar_hover_icon_1{
+	top: 111px;
+}
+#right_bar_hover_icon_3 {
+	top: 204px;
+}
+
+#right_bar_hover_icon_4 {
+	top: 250px;
+}
+
+#right_bar_hover_icon_5 {
+	top: 297px;
+}
+
+#right_bar_hover_icon_6 {
+	top: 343px;
+}
+
+#right_bar_hover_icon_7 {
+	top: 390px;
+}
+
+#right_bar_hover_icon_8 {
+	top: 436px;
+}
+
+#right_bar_hover_icon_9 {
+	top: 529px;
+}

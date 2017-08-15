@@ -1,0 +1,38 @@
+.top_hot_goods_title {
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 360px;
+	cursor: pointer;
+}
+
+.top_hot_goods_content {
+	padding: 0px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 46px;
+	cursor: pointer;
+}
+
+.top_hot_goods_content img {
+	margin-right: 3px;
+	width: 237px;
+	height: 270px;
+	border: 2px solid #FFFFFF;
+}
+
+.top_hot_goods_mask{
+	position: absolute;
+	margin-top: 102px;
+	margin-left: 48px;
+	cursor: pointer;
+}
+.top_hot_goods_mask div{
+transition: all .5s ease-in-out;
+	z-index: 10;
+	opacity: 0;
+	background-color:#FFFFFF;
+    display:inline-block;
+	margin-right: 5px;
+	width: 239px;
+	height: 270px;
+}

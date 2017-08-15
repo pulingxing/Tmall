@@ -1,0 +1,157 @@
+.order_process_div_process_bar {
+	overflow: hidden;
+	
+}
+
+.flowstep {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: auto;
+	padding: 20px 0 0;
+	margin: 0 auto;
+}
+
+.flowstep ol {
+	overflow: hidden;
+	zoom: 1;
+	width: 728px;
+	list-style: none;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 40px;
+	display: block;
+	
+}
+
+.flowstep ol li {
+	width: 182px;
+	float: left;
+	text-align: center;
+	
+	padding: 0;
+	display: list-item;
+	list-style: none;
+	zoom: 1;
+	font: 12px/1.5 tahoma, arial, "\5b8b\4f53";
+}
+
+.flowstep ol li:nth-child(1) div {
+	display: block;
+	text-align: center;
+	zoom: 1;
+}
+
+.flowstep ol li:nth-child(1) div .step-name {
+	padding: 3px 0;
+	font-weight: 700;
+	color: #888;
+	display: block;
+	text-align: center;
+}
+
+.flowstep ol li:nth-child(2) .step-name {
+	padding: 3px 0;
+	font-weight: 700;
+	color: #888;
+	text-align: center;
+	display: block;
+}
+.flowstep ol li:nth-child(3) .step-name {
+	padding: 3px 0;
+	font-weight: 700;
+	color: #888;
+	text-align: center;
+	display: block;
+}.flowstep ol li:nth-child(4) .step-name {
+	padding: 3px 0;
+	font-weight: 700;
+	color: #888;
+	text-align: center;
+	display: block;
+}
+.flowstep ol li:nth-child(2) .step-no {
+	    height: 34px;
+    line-height: 34px;
+    font-family: 'arial black';
+    color: #fff;
+    font-size: 18px;
+        text-align: center;
+    background: url(../order_img/order_process_img2.png) no-repeat 50% -102px;
+}
+.flowstep ol li:nth-child(3) .step-no {
+	    height: 34px;
+    line-height: 34px;
+    font-family: 'arial black';
+    color: #fff;
+    font-size: 18px;
+        text-align: center;
+    background: url(../order_img/order_process_img2.png) no-repeat 50% -102px;
+}
+.flowstep ol li:nth-child(4) .step-no {
+	    height: 34px;
+    line-height: 34px;
+    font-family: 'arial black';
+    color: #fff;
+    font-size: 18px;
+        text-align: center;
+        
+    background: url(../order_img/order_process_img2.png) no-repeat 50% -102px;
+      background-position: 50% -136px;
+    
+}
+.flowstep ol li:nth-child(1) div .step-no {
+	height: 34px;
+	line-height: 34px;
+	font-family: 'arial black';
+	color: #fff;
+	font-size: 18px;
+	background: url(../order_img/order_process_img.png) no-repeat 50% -102px;
+	background-position: 50% -204px;
+	text-align: center;
+}
+.order_address_div_choose_titile{
+	margin-top: 110px;
+	margin-left: 180px;
+}
+.order_address_div_choose_titile h2{
+	    line-height: 25px;
+    color: #333;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 5px 0 10px;    padding: 0;    display: block;-webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.order_address_div_choose_list{
+	width: 1040px;
+	 margin-left: 180px;
+	 height: 120px;
+}
+.order_address_div_choose_list_option{
+	    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    width: 237px;
+    height: 120px;
+    color: #666;
+    cursor: pointer;
+}
+.order_address_div_choose_list_option{
+	    z-index: 2;
+    position: relative;
+    padding: 11px 5px;
+    background: url(../order_img/order_address_div_choose_list_option_img.png) no-repeat;
+    overflow: hidden;
+   
+}
+.order_address_div_choose_list_option_focus{
+	 position: relative;
+	  overflow: hidden;
+
+	    background-image: url(../order_img/order_address_div_choose_list_option_img_light.png);
+}
+

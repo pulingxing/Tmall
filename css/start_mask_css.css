@@ -1,0 +1,24 @@
+.start_prize_mask{
+	z-index: 100;
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 380px;
+    cursor: pointer;
+    
+}
+.start_prize_mask_mask{
+	z-index: 100;
+	position: absolute;
+	background-color: #000000;
+	opacity: 0.5;
+}
+.start_prize_mask_close{
+	text-align: center;
+	line-height: 37px;
+	z-index: 101;
+	width: 37px;
+	height: 37px;
+	cursor: pointer;
+	position: fixed;
+	 margin-top:200px;
+}

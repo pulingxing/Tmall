@@ -1,0 +1,303 @@
+.footer {
+	z-index: -1;
+	display: block;
+	width: 100%;
+	margin-top: 9560px;
+	padding-bottom: 0;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	border-top: 1px solid #D1D7DC;
+	clear: both;
+	text-align: center;
+	background: #fff;
+	position: absolute;
+}
+
+.footer_tmall_ensure {
+	width: 1230px;
+	background-image: url(../img/footer_tmall_ensure_img.jpg);
+	height: 100px;
+	margin-left: 80px;
+	margin-bottom: 20px;
+	padding: 0;
+	display: block;
+	text-align: center;
+}
+
+.footer_tmall_desc {
+	width: 1230px;
+	background-position: 12px bottom;
+	padding-top: 22px;
+	height: 190px;
+	margin: auto;
+	border-top: 1px solid #ededed;
+	font-family: "微软雅黑";
+	display: block;
+	text-align: center;
+}
+
+.footer_tmall_desc:before {
+	display: table;
+	content: "";
+	line-height: 0;
+}
+
+.footer_tmall_desc:after {
+	display: table;
+	content: "";
+	line-height: 0;
+	clear: both;
+}
+
+.footer_tmall_copyright {
+	border-top: 2px solid #c40000;
+	background: #000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	font-family: "微软雅黑";
+}
+
+.footer_tmall_ensure_a {
+	width: 247px;
+	float: left;
+	display: block;
+	width: 297px;
+	height: 100px;
+	text-indent: -1000em;
+	outline: 0px;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+}
+
+.footer_tmall_desc_div {
+	margin-left: 72px;
+	padding: 0px;
+	display: block;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+
+.footer_tmall_desc_div_dl {
+	width: 200px;
+	float: left;
+	margin-right: 40px;
+	padding: 0;
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	text-align: center;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div_mobile {
+	width: 110px;
+	padding-left: 15px;
+	height: 105px;
+	float: left;
+	margin: 0;
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	text-align: center;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div_mobile dt {
+	color: #646464;
+	font-size: 16px;
+	font-weight: 700;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	display: block;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div_mobile dd {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	display: block;
+	-webkit-margin-start: 40px;
+}
+
+.footer_tmall_desc_div_mobile dd a {
+	width: 105px;
+	height: 105px;
+	line-height: 105px;
+	text-align: center;
+	display: block;
+	overflow: hidden;
+	color: #8b8b8b;
+	outline: 0px;
+	text-decoration: none;
+	cursor: auto;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div_mobile_img {
+	vertical-align: middle;
+	border: 0;
+	margin: 0px;
+	padding: 0px;
+	width: 105px;
+	height: 105px;
+	line-height: 105px;
+	text-align: center;
+	color: #8b8b8b;
+	cursor: auto;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div dl dt {
+	color: #646464;
+	font-size: 16px;
+	font-weight: 700;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	display: block;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+..footer_tmall_desc_div dl dt span {
+	margin: 0px;
+	padding: 0px;
+	color: #646464;
+	font-size: 16px;
+	font-weight: 700;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div dl dd {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	display: block;
+	-webkit-margin-start: 40px;
+	font-size: 12px;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_desc_div dl dd a {
+	display: block;
+	width: 100px;
+	overflow: hidden;
+	text-align: left;
+	height: 20px;
+	line-height: 20px;
+	color: #8b8b8b;
+	outline: 0px;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	cursor: auto;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.footer_tmall_server_num {
+	color: #000;
+	font-size: 11px;
+	background: #000;
+	display: block;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	text-align: center;
+	zoom: 1;
+}
+
+.footer_tmall_copyright_div {
+	margin-left: 80px;
+	display: block;
+	text-align: left;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	zoom: 1;
+}
+
+.footer_tmall_copyright_tamllinfo {
+	margin: 0 auto;
+	color: #fff;
+	line-height: 25px;
+	padding: 5px 0;
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	text-align: left;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	zoom: 1;
+}
+
+.footer_tmall_copyright_tamllinfo a {
+	margin-right: 5px;
+	color: #fff;
+	outline: 0;
+	font-size: 12px;
+	text-decoration: none;
+	cursor: auto;
+	line-height: 25px;
+	text-align: left;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	zoom: 1;
+}
+
+.footer_tmall_copyright_copyright {
+	font-size: 12px;
+	line-height: 20px;
+	background: #000;
+	color: #a4a4a4;
+	padding: 0;
+	display: block;
+	text-align: left;
+	font-family: "Microsoft YaHei", tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+	zoom: 1;
+}
+.footer_tmall_copyright_copyright a{
+	    color: #a4a4a4;
+    margin-right: 65px;
+        outline: 0;
+            text-decoration: none;
+                cursor: auto;
+                    line-height: 20px;
+                        text-align: left;
+                            font-family: "Microsoft YaHei",tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+                            zoom: 1;
+}
+.footer_tmall_copyright_copyright b{
+	    display: block;
+    color: #686868;
+    font-weight: 400;
+    line-height: 20px;
+        text-align: left;
+        font: 12px/1.5 tahoma,arial,"\5b8b\4f53";
+}
+.footer_tmall_copyright_copyright p{
+	padding-top: 10px;
+	padding: 5px 0;
+	    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+        line-height: 20px;
+    background: #000;
+    color: #a4a4a4;
+        text-align: left;
+        zoom: 1;
+}
+.footer_tmall_copyright_copyright p a img{
+	    margin-right: -50px;
+	    margin-top: 10px;
+}

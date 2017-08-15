@@ -1,0 +1,299 @@
+.menu_title_li {
+	margin-top: -5px;
+	width: 100%;
+	height: 36px;
+	background-color: #DD2727;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.menu_main {
+	margin-left: 22%;
+	height: 36px;
+}
+
+.right_bar {
+	z-index: 3;
+	position: fixed;
+	height: 150%;
+	right: 0;
+	margin-top: -325px;
+	width: 35px;
+	background: #000000;
+	display: none;
+}
+
+.right_bar_ul {
+	z-index: 1000;
+	margin-top: 212px;
+}
+.right_bar_ul li{
+	cursor: pointer;
+}
+
+.erweima_div {
+	display: none;
+	z-index: 5;
+	width: 154px;
+	height: 207px;
+	position: fixed;
+	margin-left: 800px;
+	margin-top: 460px;
+	z-index: 100;
+}
+
+.erweima_div #erweima_bg {
+	margin-left: 362px;
+	margin-top: -10px;
+}
+
+.erweima_div #erweima_img {
+	position: absolute;
+	margin-top: -165px;
+	margin-left: 389px;
+	width: 100px;
+	height: 100px;
+}
+.erweima_div #erweima_word{
+	position: relative;
+    margin-left: 375px;
+    margin-bottom:350px;
+}
+.right_bar_ul div:hover {
+	background-color: #C40000;
+	z-index: 99999;
+}
+.right_bar_ul li:nth-child(2) div{
+	 background-color:#BD6B09;
+}
+.right_bar_ul li:nth-child(1) div:hover{
+	background-color: #000000;
+	cursor:  default;
+}
+.right_bar_ul #back_top {
+	font-size: 35px;
+	display: none;
+}
+
+.right_bar_ul .iconfont {
+	margin-bottom: 46.5px;
+	cursor: pointer;
+}
+
+.right_bar_ul .iconfont:hover {
+	font-size: 30px;
+}
+
+.menu_main li {
+	float: left;
+	list-style: none;
+	margin-right: 3%;
+	height: 36px;
+	font-size: 1em;
+	text-align: center;
+	line-height: 36px;
+	font-family: "微软雅黑";
+	cursor: pointer;
+}
+
+.menu_main li:hover {
+	background-color: deeppink;
+	border: 2px solid gold;
+	border-radius: 15px;
+}
+
+.goods_fenlei {
+	color: #FFFFFF;
+	font-family: "微软雅黑";
+	position: absolute;
+	margin-left: 3.4%;
+	line-height: 36px;
+	width: 200px;
+	height: 36px;
+	background-color: #C60A0A;
+}
+
+.goods_fenlei li {
+	list-style: none;
+	padding-left: 20%;
+}
+
+.menu_list {
+	margin-left: 3.4%;
+	width: 200px;
+	background-color: #EEEEEE;
+}
+
+.menu_list ul li {
+	height: 30px;
+	text-align: left;
+	font-family: "微软雅黑";
+	padding-left: 19%;
+	font-size: 14px;
+	line-height: 30px;
+	color: #000000;
+	list-style: none;
+	cursor: pointer;
+	background-color: #EEEEEE;
+}
+
+.menu_list ul li:nth-child(1) {
+	padding-top: 4px;
+}
+
+.menu_list #menu_list li a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.menu_list #menu_list li:hover {
+	background-color: #FFFFFF;
+}
+
+.user_account {
+	position: absolute;
+	margin-left: 87%;
+	margin-top: 13%;
+	width: 100px;
+	opacity: 0.5;
+	height: 480px;
+	background-color: #808080;
+}
+
+.user_account:hover {
+	opacity: 0.5;
+	background-color: #000000;
+}
+
+.user_account_li {
+	list-style: none;
+	color: #FFFFFF;
+}
+
+.user_account_li ul {
+	position: absolute;
+	margin-top: 75px;
+}
+
+.user_account_li ul li {
+	margin-bottom: -15px;
+}
+
+#user_icon {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 14px;
+}
+
+#shuibei {
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 20px;
+}
+
+#goods_fenlei_icon {
+	position: absolute;
+	margin-left: -28px;
+}
+
+#menu_main_li_icon {
+	position: absolute;
+	font-size: 16px;
+	margin-left: 20.5%;
+	margin-top: 11px;
+	color: #FFFFFF;
+}
+
+#menu_main_li_icon2 {
+	position: absolute;
+	font-size: 16px;
+	margin-left: 27.6%;
+	margin-top: 9.5px;
+	color: #FFFFFF;
+}
+
+.menu .menu_main_li_iconx {
+	font-size: 30px;
+	color: #C40000;
+	position: absolute;
+	margin-left: 20.5%;
+	margin-top: -30px;
+	display: none;
+}
+
+#menu_main_li_icon_2 {
+	margin-left: 28%;
+}
+
+#menu_main_li_icon_3 {
+	margin-left: 35.5%;
+}
+
+#menu_main_li_icon_4 {
+	margin-left: 42%;
+}
+
+#menu_main_li_icon_5 {
+	margin-left: 48%;
+}
+
+#menu_main_li_icon_6 {
+	margin-left: 54%;
+}
+
+#menu_main_li_icon_7 {
+	margin-left: 59.5%;
+}
+
+#menu_main_li_icon_8 {
+	margin-left: 65.5%;
+}
+
+#menu_main_li_icon_9 {
+	margin-left: 71.5%;
+}
+
+#menu_main_li_icon_10 {
+	margin-left: 77.8%;
+}
+
+.menu_list .menu_list_icon_ul {
+	z-index: -1;
+	font-size: 14px;
+	width: 200px;
+	position: absolute;
+	margin-left: 0px;
+	margin-top: -15px;
+}
+
+#my_jifen {
+	text-align: center;
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 20px;
+}
+
+#my_jifen .fenzhi {
+	margin-top: -10px;
+	font-size: 22px;
+	color: #FFFF00;
+	font-weight: bold;
+}
+
+::-moz-placeholder {
+	color: #666666;
+	font-size: 0.5em;
+	font-family: "微软雅黑";
+}
+
+::-webkit-input-placeholder {
+	color: #666666;
+	font-size: 0.5em;
+	font-family: "微软雅黑";
+}
+
+:-ms-input-placeholder {
+	color: #666666;
+	font-size: 0.5em;
+	font-family: "微软雅黑";
+}

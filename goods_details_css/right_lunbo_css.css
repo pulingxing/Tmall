@@ -1,0 +1,72 @@
+			.banner {
+				overflow: hidden;
+				position: relative;
+			}
+			
+			.banner .img {
+				height: 2000px;
+				position: absolute;
+				left: 0px;
+				top: 0;
+			}
+			
+			.banner .img li {
+				margin-bottom: -8px;
+			}
+			.banner .img li a:hover img{
+				opacity: 0.7;
+				filter:alpha(opacity=70);   
+			}
+			.banner .img li a div {
+				width: 140px;
+				height: 25px;
+				text-align: center;
+				color: #333;
+				font-family: "微软雅黑";
+				font-size: 12px;
+				font-weight: bolder;
+				background-color:#FFFFFF ;
+				opacity: 0.5;
+				line-height: 25px;
+				top: -25px;
+				position: relative;
+			}
+			
+			 .btn {
+				position: absolute;
+				width: 50px;
+				height: 30px;
+				background: #FFFFFF;
+				position: absolute;
+				top: 50%;
+				color: #AFAFAF;
+				margin-top: 270px;
+				cursor: pointer;
+				text-align: center;
+				line-height: 30px;
+				color: #000000;
+				font-family: "宋体";
+				display: none;
+			}
+			 .btn:hover{
+			 	color: #080808;
+			 }
+			.btn li{
+				color:#AFAFAF ;
+			}
+			.btn li:hover{
+				color:#767676 ;
+			}
+			.banner:hover .btn {
+				display: block;
+			}
+			
+			 .btn_l {
+				left:10px;
+			
+			}
+			
+			 .btn_r {
+				left: 80px;
+			
+			}

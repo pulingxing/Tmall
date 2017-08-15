@@ -1,0 +1,141 @@
+     body,
+    .home-subjects-v2 ul,
+    .home-subjects-v2 li,
+     p {
+     	margin: 0;
+     	padding: 0
+     }
+     
+     ul,
+     ol {
+     	list-style: none;
+     }
+     
+     .home-subjects-v2 {
+     	height: 184px;
+     	border-radius: 3px;
+     	-moz-border-radius: 3px;
+     	-webkit-border-radius: 3px;
+     	border: 1px solid #d3d3d3;
+     	border-color: rgba(0, 0, 0, .12);
+     	overflow: hidden;
+     	width: 1225px;
+     	margin-left: 47px;
+     	margin-top: 40px;
+     	background: #fff
+     }
+     
+     .home-subjects-v2 ul {
+     	width: 1225px
+     }
+     
+     .home-subjects-v2 li {
+     	width: 187px;
+     	height: 184px;
+     	float: left;
+     	overflow: hidden;
+     	-webkit-transition: all .15s linear;
+     	-moz-transition: all all .15s linear;
+     	-o-transition: all .15s linear;
+     	-ms-transition: all .15s linear;
+     	transition: all .15s linear
+     }
+     
+     .home-subjects-v2 li * {
+     	-webkit-transition: all .15s linear;
+     	-moz-transition: all .15s linear;
+     	-o-transition: all .15s linear;
+     	-ms-transition: all .15s linear;
+     	transition: all .15s linear
+     }
+     
+     .home-subjects-v2 li a {
+     	width: 187px;
+     	height: 184px;
+     	display: block;
+     	position: relative;
+     	cursor: pointer;
+     	text-decoration: none;
+     	overflow: hidden
+     }
+     
+     .home-subjects-v2 li a:hover {
+     	position: absolute
+     }
+     
+     .home-subjects-v2 li a:hover .mask {
+     	-ms-filter: "alpha(Opacity=0)";
+     	filter: alpha(opacity=0);
+     	opacity: 0;
+     	-webkit-transition: opacity .15s ease-in;
+     	-moz-transition: opacity .15s ease-in;
+     	-o-transition: opacity .15s ease-in;
+     	-ms-transition: opacity .15s ease-in;
+     	transition: opacity .15s ease-in
+     }
+     
+     .home-subjects-v2 li img {
+     	height: 184px;
+     	width: 187px;
+     	position: absolute;
+     	bottom: 0;
+     }
+     
+     .home-subjects-v2 li .line {
+     	height: 184px;
+     	width: 0;
+     	font-size: 0;
+     	border-right: 1px dashed #cacaca;
+     	position: absolute;
+     	right: 0;
+     	top: 0;
+     }
+     
+     .home-subjects-v2 .mask {
+     	height: 184px;
+     	width: 290px;
+     	display: block;
+     	position: absolute;
+     	top: 0;
+     	left: 0;
+     	background: #000;
+     	-ms-filter: "alpha(Opacity=0)";
+     	filter: alpha(opacity=0);
+     	opacity: 0;
+     	-webkit-transition: opacity .15s ease-in;
+     	-moz-transition: opacity .15s ease-in;
+     	-o-transition: opacity .15s ease-in;
+     	-ms-transition: opacity .15s ease-in;
+     	transition: opacity .15s ease-in;
+     	_display: none!important
+     }
+     
+     .home-subjects-v2 .big {
+     	width: 290px
+     }
+     
+     .home-subjects-v2 .big a {
+     	width: 290px
+     }
+     
+     .home-subjects-v2 .big img {
+     	width: 290px;
+     	height: 184px;
+     	right: 0;
+     	bottom: 0
+     }
+     
+     .home-subjects-v2 .big .mask {
+     	width: 290px
+     }
+     
+     .home-subjects-v2:hover .mask {
+     	-ms-filter: "alpha(Opacity=15)";
+     	filter: alpha(opacity=20);
+     	opacity: .20;
+     	-webkit-transition: opacity .15s ease-in;
+     	-moz-transition: opacity .15s ease-in;
+     	-o-transition: opacity .15s ease-in;
+     	-ms-transition: opacity .15s ease-in;
+     	transition: opacity .15s ease-in
+     }

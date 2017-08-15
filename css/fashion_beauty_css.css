@@ -1,0 +1,443 @@
+.fashion_beauty_div {
+	margin-top: 1485px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.kids_baby_div{
+	margin-top: 1985px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.outdoors_div{
+		margin-top: 2585px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.home_div{
+
+			margin-top: 3085px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.grocery_div{
+				margin-top: 3690px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.electronics_div{
+					margin-top: 4195px;
+	width: 1230px;
+	height: 440px;
+	margin-left: 46px;
+	position: absolute;
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+.fashion_beauty_color_mask {
+	background-color: #EA5F8D;
+	display: inline-block;
+	width: 5px;
+	height: 20px;
+	vertical-align: top;
+	font-style: normal;
+	zoom: 1;
+}
+
+.fashion_beauty_title {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 18px;
+	color: #000;
+	line-height: 18px;
+	height: 18px;
+	margin-left: 10px;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_title_english {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 14px;
+	color: #000;
+	margin-left: 10px;
+	line-height: 24px;
+	height: 18px;
+	font-family: "微软雅黑";
+}
+
+.fashion_beauty_content {
+	width: 1230;
+	height: 440px;
+	margin-top: 10px;
+	opacity: 1;
+	display: block;
+	background: url(../img/huancun.gif) no-repeat scroll 50% 50% #f5f5f5!important;
+	;
+}
+
+.fashion_beauty_content_hot_word {
+	position: absolute;
+	top: 0;
+	right: 5px;
+	width: 600px;
+	text-align: right;
+	display: block;
+	zoom: 1;
+	font-family: "微软雅黑";
+}
+.fashion_beauty_content_hot_word a:hover{
+	border-bottom:1px solid #EA5F8D ;
+	color: #EA5F8D;
+}
+.fashion_beauty_content_content {
+	margin: 0;
+	padding: 0;
+	display: block;
+	color: #999;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_content_hot_word_span {
+	display: inline-block;
+	height: 20px;
+	line-height: 20px;
+	margin: 5px 10px;
+	font-size: 14px;
+	border: 0;
+	border-bottom: 1px solid #f5f5f5;
+	outline: 0;
+	color: #000;
+	text-decoration: none;
+	padding: 0;
+	cursor: auto;
+	text-align: right;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_big_banner {
+	float: left;
+	position: relative;
+	width: 246px;
+	height: 440px;
+	outline: 0;
+	color: #000;
+	text-decoration: none;
+	zoom: 1;
+	font-family: "微软雅黑";
+}
+
+.fashion_beauty_content_content_middle {
+	width: 735px;
+	height: 440px;
+	float: left;
+	display: block;
+	font-family: "微软雅黑";
+	color: #999;
+	font-size: 12px;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_right {
+	float: left;
+	width: 248px;
+	height: 440px;
+/*	display: none;*/
+	color: #999;
+	    margin: 0;
+    padding: 0;
+	font-size: 12px;
+}
+
+.fashion_beauty_content_content_big_banner_img {
+	display: block;
+	width: 100%;
+	height: 330px;
+	-webkit-transition: opacity 300ms ease-out;
+	-moz-transition: opacity 300ms ease-out;
+	-o-transition: opacity 300ms ease-out;
+	transition: opacity 300ms ease-out;
+	vertical-align: middle;
+	border: 0;
+	cursor: auto;
+	font-size: 12px;
+}
+.fashion_beauty_content_content_big_banner_img:hover{
+	opacity: 0.6;
+	filter:alpha(opacity=60);
+	transition: all 0.4s ease-out; 
+}
+.fashion_beauty_content_content_big_banner_act_title {
+	position: absolute;
+	bottom: 110px;
+	height: 30px;
+	width: 100%;
+	background: #fff;
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+	background: rgba(255, 255, 255, .8);
+	overflow: hidden;
+	display: block;
+	color: #000;
+	cursor: auto;
+	font-family: 12px;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_big_banner_title_con {
+	height: 110px;
+	width: 100%;
+	overflow: hidden;
+	color: #fff;
+	position: relative;
+	background-color: #EA5F8D;
+	display: block;
+	cursor: auto;
+	zoom: 1;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+
+.fashion_beauty_content_content_big_banner_act_title_slide_item {
+	margin-top: 0;
+	display: block;
+	height: 30px;
+	width: 100%;
+	line-height: 30px;
+	font-size: 14px;
+	text-align: center;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-transition: color 300ms ease-out;
+	-moz-transition: color 300ms ease-out;
+	-o-transition: color 300ms ease-out;
+	transition: color 300ms ease-out;
+	color: #000;
+	cursor: auto;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_big_banner_title_con_titile {
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 700;
+	font-size: 22px;
+	display: block;
+	color: #FFFFFF;
+	cursor: auto;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_big_banner_title_con_sub_titile {
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	display: block;
+	color: #FFFFFF;
+	cursor: auto;
+	font-family: "微软雅黑";
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_big_banner_title_con_decoration {
+	width: 100%;
+	height: 30px;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAAAgBAMAAADQ7JbhAAAAElBMVEUAAAAAAAAAAAAAAAAAAAAAAADgKxmiAAAABnRSTlMUAAQLDwdsKrbGAAAAoUlEQVRIx5zTQQ7CMAxE0a827ONS9u0NDOIAKSeA+18GlSgWm1aavJU3sUYZGbPpSXpYj3ibMXOAV9+WAnDf18xQ5w7OLu1rCj+j6a5UW2aC7jhONWRmqC6mukGVMplmNdFCk4mZQa2JsOA0yTQzwXHCZpJCcAphVNsOhX8fE7w5MkgffGyV2hbiaGHki3BOfWeqRAxQNWAYBaNgFIwCEgEAOu9AM8VSluwAAAAASUVORK5CYII=) center 0 no-repeat;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: block;
+	color: #FFFFFF;
+	cursor: auto;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_middle_grid {
+	width: 244px;
+	height: 220px;
+	float: left;
+	display: block;
+	border-bottom: 1px solid #f5f5f5;
+	border-right: 1px solid #f5f5f5;
+	position: relative;
+	background-color: #fff;
+	outline: 0;
+	color: #000;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	cursor: auto;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_middle_grid_title {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	width: 220px;
+	font-size: 18px;
+	z-index: 10;
+	line-height: 24px;
+	height: 24px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	margin: 0;
+	padding: 0;
+	display: block;
+	color: #000;
+	cursor: auto;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_middle_grid_sub_title {
+	position: absolute;
+	top: 54px;
+	left: 25px;
+	width: 220px;
+	font-size: 14px;
+	z-index: 10;
+	line-height: 18px;
+	height: 18px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	color: #EA5F8D;
+	margin: 0;
+	padding: 0;
+	display: block;
+	cursor: auto;
+	zoom: 1;
+}
+
+.fashion_beauty_content_content_middle_grid_img {
+	width: 154px;
+	height: 154px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+	-o-transition: right .3s;
+	-moz-transition: right .3s;
+	-webkit-transition: right .3s;
+	-ms-transition: right .3s;
+	transition: right .3s;
+	vertical-align: middle;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	zoom: 1;
+}
+.fashion_beauty_content_content_middle_grid:hover img{
+	right: 5px;
+}
+.fashion_beauty_content_content_right_grid{
+	    width: 248px;
+    height: 146px;
+        float: left;
+    display: block;
+    border-bottom: 1px solid #f5f5f5;
+    border-right: 1px solid #f5f5f5;
+    position: relative;
+    background-color: #fff;
+    outline: 0;
+        color: #000;
+    text-decoration: none;
+        margin: 0;
+    padding: 0;
+        cursor: auto;
+}
+.fashion_beauty_content_content_right_grid_title{
+	    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 220px;
+    font-size: 18px;
+    z-index: 10;
+    line-height: 24px;
+    height: 24px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+        margin: 0;
+    padding: 0;
+    display: block;
+        color: #000;
+        cursor: auto;
+        font-family: "微软雅黑";
+}
+.fashion_beauty_content_content_right_grid_sub_title{
+	    position: absolute;
+    top: 54px;
+    left: 25px;
+    width: 220px;
+    font-size: 14px;
+    z-index: 10;
+    line-height: 18px;
+    height: 18px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #EA5F8D;
+        margin: 0;
+    padding: 0;
+    display: block;
+        cursor: auto;
+        font-family: "微软雅黑";
+}
+.fashion_beauty_content_content_right_img{
+	    width: 100px;
+    height: 100px;
+        position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    -o-transition: right .3s;
+    -moz-transition: right .3s;
+    -webkit-transition: right .3s;
+    -ms-transition: right .3s;
+    transition: right .3s;
+        vertical-align: middle;
+            border: 0;
+                margin: 0;
+    padding: 0;
+    color: #000;
+    cursor: auto;
+}
+.fashion_beauty_content_content_right_grid:hover img{
+	right: 5px;
+}

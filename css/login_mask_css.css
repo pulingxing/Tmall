@@ -1,0 +1,195 @@
+
+#mask {
+	background-color: #000000;
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+	position: absolute;
+	z-index:5;
+	display: none;
+}
+
+.relogin_panel {
+	color: #666666;
+	position: absolute;
+	margin-left: 36.5%;
+	margin-top: 17%;
+	width: 360px;
+	height: 360px;
+	background-color: #FFFFFF;
+	border: 1px solid #C60A0A;
+}
+
+.login_register_way ul {
+	margin-left: 15px;
+}
+
+.login_register_way ul li {
+	font-size: 45px;
+	position: absolute;
+	list-style: none;
+	margin-top: 290px;
+	color: #9D9D9D;
+}
+
+#register_icon_qq {
+	cursor: pointer;
+	margin-left: 140px;
+}
+
+#register_icon_qq:hover {
+	color: #00A8FF;
+	font-size: 50px;
+}
+
+#register_icon_weixin {
+	margin-left: 210px;
+	cursor: pointer;
+}
+
+#register_icon_weixin:hover {
+	color: #EB2B00;
+	font-size: 50px;
+}
+
+#register_icon_weibo {
+	margin-left: 280px;
+	cursor: pointer;
+}
+
+#register_icon_weibo:hover {
+	color: #0DBD0D;
+	font-size: 50px;
+}
+
+#third_login {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 305px;
+}
+
+#forget_password_tip {
+	position: absolute;
+	margin-left: 260px;
+	margin-top: 190px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	cursor: pointer;
+}
+
+#forget_password_tip:hover {
+	color: #C40000;
+	text-decoration: underline;
+}
+
+#login_mask_button {
+	width: 80%;
+	height: 15%;
+	background-color: #F01400;
+	border: none;
+	position: absolute;
+	margin-left: 35px;
+	margin-top: 220px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	cursor: pointer;
+}
+#radio_input {
+	position: absolute;
+	margin-left:40px;
+	margin-top: 195px;
+}
+
+#radio_input_tip {
+	position: absolute;
+	margin-left: 60px;
+	margin-top: 191px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+
+#password_input {
+	width: 80%;
+	height: 10%;
+	position: absolute;
+	margin-left: 35px;
+	margin-top: 120px;
+}
+
+#login_input {
+	width: 80%;
+	height: 10%;
+	position: absolute;
+	margin-left: 35px;
+	margin-top: 65px;
+}
+
+#login {
+	text-align: center;
+	width: 80px;
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 15px;
+	font-family: "微软雅黑";
+	color:#F01400 ;
+	font-size: 16px;
+	border-bottom:1px solid #F01400 ;
+	cursor: pointer;
+	padding-bottom: 10px;
+}
+#login:hover{
+	color: #F01400 ;
+} 
+#register {
+	text-align: center;
+	width: 80px;
+	position: absolute;
+	margin-left: 110px;
+	margin-top: 15px;
+	font-family: "微软雅黑";
+	color: #000000;
+	font-size: 16px;
+	cursor: pointer;
+	padding-bottom: 10px;
+}
+#register:hover{
+	color: #F01400;
+}
+#login_mask_close{
+	position: absolute;
+     margin-left:325px ;
+     margin-top: 16px;
+	color: #000000;
+	cursor: pointer;
+	color: #737373;
+}
+#login_mask_close:hover{
+	font-size: 20px;
+	color:  #C40000;
+}
+.relogin_panel{
+	z-index: 5;
+	display: none;
+}
+.blueborder{
+   border: 1px solid #0088CC;
+   box-shadow: 1px 1px 2px 1px #D2EDF2 ;
+}
+.balckborder{
+	border: 1px solid black;
+}
+.login_mask_button_mask{
+	display: none;
+    width: 80%;
+	height: 15%;
+	background-color: #FFFFFF;
+	opacity:0.35;
+	filter: alpha(opacity=35);
+	border: none;
+	position: absolute;
+	margin-left: 35px;
+	margin-top: 220px;
+    z-index: 15;
+	cursor: pointer;
+}

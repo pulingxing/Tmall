@@ -1,0 +1,111 @@
+.menu_list_second_div,.menu_list_second_div_2,.menu_list_second_div_3 {
+	z-index: 0;
+	display: none;
+	position: absolute;
+	width: 858px;
+	height: 500px;
+	filter: alpha(opacity=95);
+	opacity: 0.95;
+	background-color:#EEEEEE;
+	margin-top: -35.7%;
+	margin-left: 18.2%;
+}
+
+.menu_list_second_div_left,.menu_list_second_div_left_2.menu_list_second_div_3 {
+	width: 590px;
+	height: 500px;
+	padding: 15px 30px 20px 30px;
+	background-color: #FFFFFF
+}
+
+.menu_list_second_div_right,.menu_list_second_div_right_2,.menu_list_second_div_3 {
+	position: absolute;
+	margin-left: 659px;
+	margin-top: -528px;
+	width: 190px;
+	height: 480px;
+	background-color: #FFFFFF
+}
+
+.menu_list_second_div_left_div {
+	padding-bottom: 55px;
+	width: 100%;
+	border-bottom: 2px dashed #E6E6E6;
+}
+
+.menu_list_second_div_left_div:nth-child(n+2) {
+	padding-top: 15px;
+}
+
+.menu_list_second_div_left_div:nth-child(2) {
+	padding-bottom: 30px;
+}
+
+.menu_list_second_div_left_div:nth-child(4) {
+	padding-bottom: 30px;
+}
+
+.menu_list_second_div_left_div:nth-child(6) {
+	padding-bottom: 30px;
+}
+
+.menu_list_second_div_left_div:nth-child(7) {
+	padding-bottom: 30px;
+}
+
+.menu_list_second_div_left_div:nth-child(8) {
+	padding-bottom: 30px;
+}
+
+.menu_list_secongd_div_titile {
+	width: 70px;
+	color: #333;
+	position: relative;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 22px;
+	height: 22px;
+	float: left;
+	font-family: "微软雅黑";
+}
+
+.menu_list_second_div_left_hot_word {
+	margin-left: 80px;
+}
+
+.menu_list_second_div_left_hot_word a {
+	cursor: pointer;
+	font-family: "微软雅黑";
+	height: 22px;
+	line-height: 22px;
+	font-size: 14px;
+	color: #666;
+	float: left;
+	margin-left: 13px;
+}
+
+#color_pink {
+	color: #E54077;
+}
+
+.menu_list_second_div_right_smart img {
+	width: 80px;
+	float: left;
+	display: block;
+	margin: 0 auto;
+	vertical-align: middle;
+	border: 0;
+	cursor: pointer;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-bottom: 11px;
+}
+
+.menu_list_second_div_right_long img {
+	float: left;
+	width: 189px;
+	height: 87px;
+	margin-top: -10px;
+	vertical-align: middle;
+	border: 0;
+}
